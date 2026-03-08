@@ -49,13 +49,13 @@ pip install streamlit spacy pypdf
 Download the spaCy model:
 
 python -m spacy download en_core_web_sm
-Run the Application
+
 
 Run the Streamlit application:
 
 streamlit run app.py
 
-Open your browser and go to:
+Open your browser and go to:--
 
 http://localhost:8501
 
